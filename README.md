@@ -29,10 +29,6 @@ I care about taking ideas from **zero → usable → scalable**, and pushing the
 ---
 
 ### 📊 Highlights
-
-- 10+ products shipped across AI and software  
-- Worked with real users and real systems (not just prototypes)  
-- Built and delivered multiple client-facing solutions early  
 - Consistent high-frequency shipping  
 - Currently **raising $500K**
 ---
