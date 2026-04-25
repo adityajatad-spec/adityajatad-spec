@@ -1,8 +1,7 @@
 # Hi, I'm Aditya 👋
 
 📍 India  
-🧠 Building AI systems that think, act, and improve  
-⚡ Focused on execution, systems, and real-world impact  
+⚡ Focused on backend, verification, trust, and real-world impact  
 
 ---
 
