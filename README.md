@@ -30,7 +30,7 @@ I care about taking ideas from **zero → usable → scalable**, and pushing the
 
 ### 📊 Highlights
 - Consistent high-frequency shipping  
-- Currently **raising $500K**
+- Currently **raised $500K**
 ---
 
 ### 🧱 Philosophy
